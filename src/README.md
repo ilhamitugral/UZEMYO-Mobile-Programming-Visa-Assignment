@@ -1,16 +1,14 @@
-# visa
+# UZEMYO Mobile Programming Visa Assignment
 
-A new Flutter project.
+Usak University Mobile Programming Visa Assignment is here. We're created simple app with Flutter.
 
-## Getting Started
+# What's available?
 
-This project is a starting point for a Flutter application.
+* Login Screen (username: demo & password: demo)
+* Register Screen
+* Lost Password
+* Homepage Design
 
-A few resources to get you started if this is your first Flutter project:
+![https://github.com/ilhamitugral/UZEMYO-Mobile-Programming-Visa-Assignment/blob/main/resources/figma.png](https://github.com/ilhamitugral/UZEMYO-Mobile-Programming-Visa-Assignment/blob/main/resources/figma.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![https://github.com/ilhamitugral/UZEMYO-Mobile-Programming-Visa-Assignment/blob/main/resources/screenshot.png](https://github.com/ilhamitugral/UZEMYO-Mobile-Programming-Visa-Assignment/blob/main/resources/screenshot.png)
